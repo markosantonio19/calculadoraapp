@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primera calculadora.Android", "primera calculadora\primera calculadora.Android\primera calculadora.Android.csproj", "{D3813AD1-1B73-4AC5-9904-314972A4C47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primera calculadora", "primera calculadora\primera calculadora\primera calculadora.csproj", "{FB77B583-E660-4C4E-868B-9DB275442173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3813AD1-1B73-4AC5-9904-314972A4C47B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB77B583-E660-4C4E-868B-9DB275442173}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC1A427-9C49-46F9-A328-F0D4EAC8A3F1}
+	EndGlobalSection
+EndGlobal
